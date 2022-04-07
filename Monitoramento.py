@@ -144,7 +144,7 @@ while True:
                       "=", "%", style="yellow")
         console = Console()
 
-    # Monitoramento SAND
+    # Monitoramento MANA
     if list_xrp[-1] > list_xrp[-2]:
         if list_xrp[-2] == 1.00:
             response = "Calculando..."
